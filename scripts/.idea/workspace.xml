@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="121178e1-f213-497f-9bbb-cf990d078c1f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/scripts$wc_ctrl_quad.coverage" NAME="wc_ctrl_quad Coverage Results" MODIFIED="1506663540590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scripts$wc_TK1_px4.coverage" NAME="wc_TK1_px4 Coverage Results" MODIFIED="1532087000966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scripts$class_callback_func.coverage" NAME="class_callback_func Coverage Results" MODIFIED="1530615427135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scripts$coordinate_transform.coverage" NAME="coordinate_transform Coverage Results" MODIFIED="1530718875579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RVqMxhCZmKiTniXwT9lPCmFC2V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="gen_vision_pose" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gen_vision_pose.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hgt_mode_controller" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hgt_mode_ctrl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_CTRL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_CTRL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../guidance_ws" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../guidance_ws/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.gen_vision_pose" />
+      <item itemvalue="Python.hgt_mode_controller" />
+      <item itemvalue="Python.main_CTRL" />
+      <item itemvalue="Python.setup" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.setup" />
+        <item itemvalue="Python.hgt_mode_controller" />
+        <item itemvalue="Python.gen_vision_pose" />
+        <item itemvalue="Python.main_CTRL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="121178e1-f213-497f-9bbb-cf990d078c1f" name="Default" comment="" />
+      <created>1504705391251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504705391251</updated>
+      <workItem from="1569762568645" duration="8823000" />
+      <workItem from="1569771522720" duration="958000" />
+      <workItem from="1569772712769" duration="153000" />
+      <workItem from="1569773457340" duration="245000" />
+      <workItem from="1571213147496" duration="1262000" />
+      <workItem from="1571214687491" duration="3168000" />
+      <workItem from="1571287171453" duration="2062000" />
+      <workItem from="1571289317425" duration="2052000" />
+      <workItem from="1571292375428" duration="305000" />
+      <workItem from="1571295587187" duration="143000" />
+      <workItem from="1571376436788" duration="198000" />
+      <workItem from="1571376884191" duration="2798000" />
+      <workItem from="1571387350286" duration="9822000" />
+      <workItem from="1571726292858" duration="1760000" />
+      <workItem from="1571739559374" duration="3438000" />
+      <workItem from="1571800108205" duration="6262000" />
+      <workItem from="1571817253701" duration="1712000" />
+      <workItem from="1571884113081" duration="3296000" />
+      <workItem from="1572242865551" duration="11935000" />
+      <workItem from="1572505068329" duration="141000" />
+      <workItem from="1572505234467" duration="3694000" />
+      <workItem from="1572520907176" duration="3091000" />
+      <workItem from="1574135545267" duration="2096000" />
+      <workItem from="1574737126807" duration="2920000" />
+      <workItem from="1577390545779" duration="7402000" />
+      <workItem from="1577468257405" duration="5972000" />
+      <workItem from="1577729997239" duration="15682000" />
+      <workItem from="1577754425787" duration="4382000" />
+      <workItem from="1577815592603" duration="23435000" />
+      <workItem from="1577986133623" duration="9167000" />
+      <workItem from="1578091363505" duration="6127000" />
+      <workItem from="1578333554193" duration="4964000" />
+      <workItem from="1578427000959" duration="6626000" />
+      <workItem from="1578507646893" duration="6080000" />
+      <workItem from="1578515661455" duration="6189000" />
+      <workItem from="1578601684498" duration="1891000" />
+      <workItem from="1578613135924" duration="1892000" />
+      <workItem from="1578679450368" duration="4381000" />
+      <workItem from="1578940688004" duration="6963000" />
+      <workItem from="1579026471581" duration="6598000" />
+      <workItem from="1579115719924" duration="11228000" />
+      <workItem from="1579198775309" duration="1474000" />
+      <workItem from="1579286124838" duration="4910000" />
+      <workItem from="1579311857403" duration="66000" />
+      <workItem from="1579311987844" duration="3561000" />
+      <workItem from="1579717209820" duration="288000" />
+      <workItem from="1579717528340" duration="213000" />
+      <workItem from="1579717769854" duration="196000" />
+      <workItem from="1579718071380" duration="4199000" />
+      <workItem from="1579728239771" duration="4210000" />
+      <workItem from="1579743683561" duration="1952000" />
+      <workItem from="1579810050939" duration="30000" />
+      <workItem from="1580170418512" duration="1684000" />
+      <workItem from="1580269938305" duration="645000" />
+      <workItem from="1580271332378" duration="4353000" />
+      <workItem from="1580322887779" duration="1294000" />
+      <workItem from="1580331998759" duration="2710000" />
+      <workItem from="1580416564490" duration="8418000" />
+      <workItem from="1580606612386" duration="3000" />
+      <workItem from="1580630026796" duration="15000" />
+      <workItem from="1580633427434" duration="6000" />
+      <workItem from="1580853443468" duration="13638000" />
+      <workItem from="1581109481931" duration="11763000" />
+      <workItem from="1581360492804" duration="17432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scripts$main_FDI.coverage" NAME="main_FDI Coverage Results" MODIFIED="1569771282975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scripts$main_CTRL.coverage" NAME="main_CTRL Coverage Results" MODIFIED="1577390800119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scripts$hgt_mode_controller.coverage" NAME="hgt_mode_controller Coverage Results" MODIFIED="1577742860328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scripts$gen_vision_pose.coverage" NAME="gen_vision_pose Coverage Results" MODIFIED="1577397211499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scripts$setup.coverage" NAME="setup Coverage Results" MODIFIED="1580171391847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../guidance_ws" />
+    <SUITE FILE_PATH="coverage/scripts$test.coverage" NAME="test Coverage Results" MODIFIED="1580434507844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
