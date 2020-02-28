@@ -7,3 +7,5 @@
 ```
 rosrun px4_controller main_CTRL.py
 ```
+## how to use?
+![CTRL_Panel](./images/CTRL_Panel.png)
